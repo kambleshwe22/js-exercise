@@ -5,3 +5,6 @@ accountCity = "jaipur"
 //accountId = 2
 console.log(accountId);
 console.table([accountId,accountEmail,accountPassword,accountCity])
+/* 
+let and const is used in javascript rather than var 
+*/
